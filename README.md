@@ -1,2 +1,2 @@
-# myNewRepository
-This is my second repository. Here I test git's feauteres and learn how to connect my local repositoty with the global one. 
+jhfgjfjghfghjfghjfhgjfgjpository. Here I test git's feauteres and learn how to
+bfconnect my local repositoty with the global one. Seems so hard to work with it!  
